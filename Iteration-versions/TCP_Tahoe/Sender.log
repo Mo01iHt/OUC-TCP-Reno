@@ -1,0 +1,2310 @@
+2024-1-2 16:10:06 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 0
+2024-1-2 16:10:06 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 2 ssthresh = 16
+2024-1-2 16:10:06 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 1
+2024-1-2 16:10:06 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 2
+2024-1-2 16:10:06 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 4 ssthresh = 16
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 3
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 4
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 5
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 6
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 8 ssthresh = 16
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 7
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 8
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 9
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 10
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 11
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 12
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 13
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 14
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 16 ssthresh = 16
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 15
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 16
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 17
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 18
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 19
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 20
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 21
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 22
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 23
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 24
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 25
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 26
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 27
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 28
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 29
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 30
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 17
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 31
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 32
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 33
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 34
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 35
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 36
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 37
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 38
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 39
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 40
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 41
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 42
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 43
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 44
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 45
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 46
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 47
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 18
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 48
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 49
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 50
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 51
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 52
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 53
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 54
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 55
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 56
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 57
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 58
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 59
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 60
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 61
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 62
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 63
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 64
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 65
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 19
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 66
+2024-1-2 16:10:07 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 67
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 68
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 69
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 70
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 71
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 72
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 73
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 74
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 75
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 76
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 77
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 78
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 79
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 80
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 81
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 82
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 83
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 84
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 20
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 85
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 86
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 87
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 88
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 89
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 90
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 91
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 92
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 93
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 94
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 95
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 96
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: -17595623
+2024-1-2 16:10:08 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 98
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 99
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 100
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 101
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 102
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 103
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 104
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 21
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 105
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 106
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 107
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 108
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 109
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 110
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 111
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 112
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 113
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 114
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 115
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 116
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 117
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 118
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 119
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 120
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 121
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 122
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 123
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 124
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 125
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 22
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 126
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 127
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 128
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 129
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 130
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 131
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 132
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 133
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 134
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 135
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 136
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 137
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 138
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 139
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 140
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 141
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 142
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 143
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 144
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 145
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 146
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 147
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 23
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 148
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 149
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 150
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 151
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 152
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 153
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 154
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 155
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 156
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 157
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 158
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 159
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 160
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 161
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 162
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 162
+2024-1-2 16:10:09 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 162 重复计数: 1 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 162
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 162 重复计数: 2 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 162
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 162 重复计数: 3 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 快重传：seq = 163 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [慢开始阶段]拥塞窗口信息：cwnd = 1 ssthresh = 11
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 166
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 2 ssthresh = 11
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 167
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 168
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 4 ssthresh = 11
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 169
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 170
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 171
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 172
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 8 ssthresh = 11
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 173
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 174
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 175
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 176
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 178
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 179
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 180
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 181
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 12
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 182
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 183
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 184
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 185
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 186
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 187
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 188
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 189
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 190
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 13
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 191
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 192
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 193
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 194
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 195
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 196
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 197
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 198
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 199
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 200
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 14
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 201
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 202
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 203
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 204
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 205
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 206
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 207
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 208
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 209
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 210
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 211
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 15
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 212
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 213
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 214
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 215
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 216
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 217
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 218
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 219
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 220
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 221
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 222
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 223
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 16
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 224
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 225
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 226
+2024-1-2 16:10:10 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 227
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 228
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 229
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 230
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 232
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 233
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 234
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 235
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 236
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 237
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 17
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 238
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 239
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 240
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 241
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 242
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 243
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 244
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 245
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 246
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 247
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 248
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 249
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 250
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 251
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 18
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 252
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 253
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 254
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 255
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 256
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 257
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 258
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 259
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 260
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 261
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 262
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 263
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 264
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 265
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 266
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 19
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 267
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 268
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 269
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 270
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 271
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 272
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 273
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 274
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 275
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 276
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 277
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 278
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 279
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 280
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 281
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 282
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 20
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 283
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 284
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 285
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 286
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 287
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 288
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 289
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 290
+2024-1-2 16:10:11 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 291
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 292
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 293
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 294
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 295
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 296
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 297
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 298
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 299
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 21
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 300
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 301
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 302
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 303
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 304
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 305
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 306
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 307
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 308
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 309
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 310
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 311
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 312
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 313
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 314
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 315
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 316
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 317
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 22
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 318
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 319
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 320
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 321
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 322
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 323
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 324
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 325
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 326
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 327
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 328
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 329
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 330
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 331
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 332
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 333
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 334
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 335
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 336
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 23
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 337
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 338
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 339
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 340
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 341
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 342
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 343
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 344
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 345
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 346
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 347
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 348
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 349
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 350
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 351
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 352
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 353
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 354
+2024-1-2 16:10:12 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 355
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 356
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 24
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: -1624537
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 358
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 360
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 361
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 362
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 363
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 364
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 365
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 366
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 367
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 368
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: -11105714
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 370
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 371
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 372
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 373
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 374
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 375
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 376
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 377
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 378
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 25
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 379
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 380
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 381
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 382
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 383
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 384
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 385
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 386
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 387
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 388
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 389
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 390
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 391
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 392
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 393
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 394
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 395
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 396
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 397
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 398
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 399
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 400
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 26
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 401
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 402
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 403
+2024-1-2 16:10:13 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 404
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 405
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 406
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 407
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 408
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 409
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 410
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 411
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 412
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 413
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 414
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 415
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 416
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 417
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 418
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 419
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 420
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 421
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 422
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 423
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 27
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 424
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 425
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 426
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 427
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 428
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 429
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 430
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 431
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 432
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 433
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 434
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 435
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 436
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 437
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 438
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 439
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 440
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 441
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 442
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 443
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 444
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 444
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 444 重复计数: 1 ###############
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 444
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 444 重复计数: 2 ###############
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 444
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 444 重复计数: 3 ###############
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 快重传：seq = 445 ###############
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [慢开始阶段]拥塞窗口信息：cwnd = 1 ssthresh = 13
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 448
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 2 ssthresh = 13
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 449
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 450
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 4 ssthresh = 13
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 451
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 452
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 453
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 454
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 8 ssthresh = 13
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 455
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 456
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 457
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 458
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 459
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 460
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 461
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 462
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 14
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 463
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 464
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 465
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 466
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 467
+2024-1-2 16:10:14 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 468
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 469
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 470
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 471
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 15
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 472
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 473
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 474
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 475
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 476
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 477
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 478
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 479
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 480
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 481
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 16
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 482
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 483
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 484
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 485
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 486
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 487
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 488
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 489
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 490
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 491
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 492
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 17
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 493
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 494
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 495
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 496
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 497
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 498
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 499
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 500
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 501
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 502
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 502
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 502 重复计数: 1 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 502
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 502 重复计数: 2 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 502
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 502 重复计数: 3 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 快重传：seq = 503 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [慢开始阶段]拥塞窗口信息：cwnd = 1 ssthresh = 8
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 506
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 2 ssthresh = 8
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 507
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 508
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 4 ssthresh = 8
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 509
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 510
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 511
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 512
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 8 ssthresh = 8
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 513
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 514
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 515
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 516
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 517
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 518
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 519
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 520
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 9
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 521
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 522
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 523
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 524
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 525
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 526
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 527
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 528
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 529
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 10
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 530
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 531
+2024-1-2 16:10:15 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 532
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 533
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 534
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 535
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 536
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 537
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 538
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 538
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 538 重复计数: 1 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 538
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 538 重复计数: 2 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 538
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 538 重复计数: 3 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 快重传：seq = 539 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [慢开始阶段]拥塞窗口信息：cwnd = 1 ssthresh = 5
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 542
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 2 ssthresh = 5
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 543
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 544
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 4 ssthresh = 5
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 545
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 546
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 547
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 548
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 6
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 549
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 550
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 551
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 552
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 553
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 7
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 554
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 555
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 556
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 557
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 558
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 559
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 8
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 560
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 561
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 562
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 563
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 564
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 565
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 566
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 9
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 567
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 568
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 569
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 570
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 571
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 572
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 573
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 574
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 10
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 575
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 576
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 577
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 578
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 579
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 580
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 581
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 582
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 583
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 11
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 584
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 585
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 586
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 587
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 588
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 589
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 590
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 591
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 592
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 593
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 12
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 594
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 595
+2024-1-2 16:10:16 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 596
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 597
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 598
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 599
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 600
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 601
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 602
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 603
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 604
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 13
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 605
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 606
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 607
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 608
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 609
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 610
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 611
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 612
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 613
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 614
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 615
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 616
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 14
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 617
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 618
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 619
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 620
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 621
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 622
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 623
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 624
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 625
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 626
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 627
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 628
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 629
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 15
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 631
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 632
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 633
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 634
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 635
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 636
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 637
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 638
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 639
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 640
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 641
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 642
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 643
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 644
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 16
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 645
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 646
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 647
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 648
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 649
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 650
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 651
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 652
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 653
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 654
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 655
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 656
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 657
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 658
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 659
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 17
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 660
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 661
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 662
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 663
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 664
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 665
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 666
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 667
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 668
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 669
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 670
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 671
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 672
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 673
+2024-1-2 16:10:17 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 674
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 675
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 18
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 676
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 677
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 678
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 679
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 680
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 681
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 682
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 683
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 684
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 685
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 686
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 687
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 688
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 689
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 690
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 691
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 692
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 19
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 693
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 694
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 695
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 696
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 697
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 698
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 699
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 700
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 701
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 702
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 703
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 704
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 705
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 706
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 707
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 708
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 709
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 710
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 20
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 711
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 712
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 713
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 714
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 715
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 716
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 717
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 718
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 719
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 720
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 721
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 722
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 723
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 724
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 725
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 726
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 727
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 728
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 729
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 21
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 730
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 731
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 732
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 733
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 734
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 735
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 736
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 737
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 738
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 739
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 740
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 741
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 742
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 743
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 744
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 745
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 746
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 747
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 748
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 749
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 22
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 750
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 751
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 752
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 753
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 754
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 755
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 756
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 757
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 758
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: -20408252
+2024-1-2 16:10:18 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 760
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 761
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 762
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 763
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 764
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 765
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 766
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 767
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 768
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 769
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 770
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 23
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 771
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 772
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 773
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 774
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 775
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 776
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 777
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 778
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 779
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 780
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 781
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 782
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 783
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 784
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 785
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 786
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 787
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 788
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 789
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 790
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 791
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 792
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 24
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 793
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 794
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 795
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 796
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 797
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 798
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 799
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 800
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 801
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 802
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 803
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 804
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 805
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 806
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 807
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 808
+2024-1-2 16:10:19 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 809
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 810
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 811
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 812
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 813
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 814
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 815
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 25
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 816
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 817
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 818
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 819
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 820
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 821
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 822
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 823
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 824
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 825
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 826
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 827
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 828
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 829
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 830
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 831
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 832
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 833
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 834
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 835
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 836
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 837
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 838
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 839
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 26
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 840
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 841
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 842
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 843
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 844
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 845
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 846
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 847
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 848
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 849
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 851
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 852
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 853
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 854
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 855
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 856
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 857
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 858
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 859
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 860
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 861
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 862
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 863
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 864
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 865
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 27
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 866
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 867
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 868
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 869
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 870
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 871
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 872
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 873
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 874
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 875
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 876
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 877
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 878
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 879
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 880
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 881
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 882
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 883
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 884
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 885
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 886
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 887
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 888
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 889
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 890
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 891
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 28
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 892
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 893
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 894
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 895
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 896
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 897
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 898
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 899
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 901
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 902
+2024-1-2 16:10:20 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 903
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 904
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 905
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 906
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 907
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 908
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 909
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 910
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 911
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 912
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 913
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 914
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 915
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 916
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 917
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 918
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 919
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 29
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 920
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 921
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 922
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 923
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 924
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 925
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 926
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 927
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 928
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 929
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 930
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 931
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 932
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 933
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 934
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 935
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 936
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 937
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 938
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 939
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 940
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 941
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 942
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 943
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 944
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 945
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 946
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 947
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 30
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 948
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 949
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 950
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 951
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 952
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 953
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 953
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 953 重复计数: 1 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 953
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 953 重复计数: 2 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 953
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 收到重复包：sequence = 953 重复计数: 3 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 快重传：seq = 954 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [慢开始阶段]拥塞窗口信息：cwnd = 1 ssthresh = 15
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 957
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 2 ssthresh = 15
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 958
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 959
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 4 ssthresh = 15
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 960
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 961
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 962
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 963
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [一个传输轮次]拥塞窗口信息：cwnd = 8 ssthresh = 15
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 964
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 965
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 966
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 967
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 968
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 969
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 970
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 971
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 16
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 972
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 973
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 974
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 975
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 976
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 977
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 978
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 979
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 980
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 17
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 981
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 982
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 983
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 984
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 985
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 986
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 987
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 988
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 989
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 990
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 18
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 991
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 992
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 993
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 994
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 995
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 996
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 997
+2024-1-2 16:10:21 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 998
+2024-1-2 16:10:22 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 999
+2024-1-2 16:10:40 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 630
+2024-1-2 16:10:49 com.ouc.tcp.test.SenderWindow rcvAck
+信息: 接收到ack: 999
+2024-1-2 16:10:49 com.ouc.tcp.test.SenderWindow rcvAck
+信息: ############### 拥塞避免 ###############
+2024-1-2 16:10:49 com.ouc.tcp.test.SenderWindow rcvAck
+信息: [拥塞控制阶段]拥塞窗口信息：cwnd = 19
